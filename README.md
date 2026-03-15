@@ -22,7 +22,7 @@ To run or view this project, you'll need:
 - `Documentation`: Check out the video demo below for a full walkthrough.
 
 ### 🎥 Video Demo
-[Click Here to Watch the Project Walkthrough (Google Drive Link)] 📺
+[Click Here to Watch the Project Walkthrough (https://drive.google.com/file/d/1wAd9hqQ9RPLw_kv3aklPbY5MdlmGJL5Z/view?usp=drive_link)] 📺
 *(I explained how the charts update and what the data tells us!)*
 
 ### 🚀 Getting Started
